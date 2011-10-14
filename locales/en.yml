@@ -1,0 +1,6 @@
+en:
+  vagrant:
+    plugins:
+      guard:
+        starting: "Starting Guard..."
+        config_directory: "Directory must be a string."
